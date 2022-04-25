@@ -32,3 +32,7 @@ myNum = myVar;
 var myVar = 0;
 
 // This creates a new variable called myVar and gives it the value of 0.
+
+// You can also declare a variable like this:
+
+var myName = "your name";
