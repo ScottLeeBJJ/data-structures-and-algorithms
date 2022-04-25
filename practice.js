@@ -39,3 +39,9 @@ var myName = "your name";
 
 // "your name" is called a string literal. A string literal, or string, is a series of zero or more characters enclosed in single or double quotes.
 
+// When JavaScript variables are declared, they have an initial value of undefined. If you do a mathematical operation on an undefined variable your result will be NaN which means "Not a Number". If you concatenate a string with an undefined variable, you will get a string of undefined.
+
+// In JavaScript all variables and function names are case sensitive. This means that capitalization matters. MYVAR is not the same as MyVar nor myvar.
+
+// Write variable names in JavaScript in camelCase. In camelCase, multi-word variable names have the first word in lowercase and the first letter of each subsequent word is capitalized.
+
